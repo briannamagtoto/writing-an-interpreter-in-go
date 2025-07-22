@@ -1,3 +1,3 @@
 # Writing An Interpreter In Go
 ---
-currently reading "Writing An Interpreter in Go" by Thorsten Ball and documenting my learning
+started July 21 2025. currently reading "Writing An Interpreter in Go" by Thorsten Ball and documenting my learning
